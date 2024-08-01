@@ -28,7 +28,7 @@ struct PokemonInfoView: View {
         }
     }
 }
-
+    
 #Preview {
     PokemonInfoView()
 }
